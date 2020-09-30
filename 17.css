@@ -1,0 +1,63 @@
+.first {
+    width: 100%;
+    background-color: lightblue;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    position: relative;
+    margin: auto;
+    width: 20%;
+    border: 2px solid pink;
+    margin-top: 1%;
+    background-color: orange;
+}
+
+.banner {
+    height: 30%;
+    background-color: lightpink
+}
+
+.name {
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    padding: 1px;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    background-color: black;
+    color: lightblue;
+    margin-bottom: 1%;
+    font-weight: bold;
+}
+
+.contact {
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+}
+
+.details {
+    column-count: 2;
+    column-rule: 2px solid pink;
+}
+
+.skills {
+    list-style-type: none;
+}
+
+progress {
+    position: absolute;
+    width: 20%;
+    left: 20%;
+}
+
+h4 {
+    position: relative;
+    left: 3%;
+}
